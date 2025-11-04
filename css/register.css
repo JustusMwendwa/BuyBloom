@@ -1,0 +1,49 @@
+
+form{
+    background-color: rgb(85, 131, 224);
+    width: 50%;
+    margin: auto;
+    padding: 40px;
+    color: white;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgb(18, 15, 15);
+
+}
+
+legend{
+
+    font-size: 40px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+input[type=text], input[type=email],input[type=password],input[type=date],
+input[type=datetime-local],input[type=tel],select{
+
+    width: 100%;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+
+button{
+    background-color: rgb(4, 6, 11);
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+    display: block;
+    margin: auto;
+
+}
+
+body{
+
+    background-image: url("../assets/image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+}
+

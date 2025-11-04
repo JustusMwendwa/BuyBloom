@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    color: #f23329;
+}
+
+
+#heading1{
+    font-size: 40px;
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+
+.paragraph{
+
+    font-weight: bold;
+    font-style: italic;
+}
+
+#vip{
+    background-color: rgb(220, 176, 164);
+    display: flex;
+    padding: 40px;
+    margin: 30px;
+    border-radius: 20px;
+}
+
+#vip:hover{
+    background-color: aqua;
+}
+
+#vip img{
+    margin-right: 30px;
+}
+
+#surprises{
+    display: flex;
+}
+
+#surprises img{
+    margin-right: 30px;
+    margin-left: 30px;
+    border-radius: 20px;
+}

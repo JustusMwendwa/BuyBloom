@@ -1,0 +1,28 @@
+h1{
+    color: #fe0f29;
+    font-size: 50px;
+    text-shadow: 8px 8px 8px gray;
+}
+
+button{
+    background-color: #fe0f29;
+    color: aliceblue;
+    width: 150px;
+    padding: 20px;
+    margin-left: 60px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+button:hover{
+    background-color: gray;
+}
+
+h2{
+    color: #fe0f29;
+}
+
+img{
+    width: 400px;
+    height: 250px;
+}
